@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* CSS CODE BACKGROUND 1 */
+.bg-1 {
+  background: url("assets/main-bg.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.judul {
+  color: white;
+  font-size: 63px;
+  text-align: center;
+}
+
+.sub-judul {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.btn-1 {
+  background-color: orange;
+  border: none;
+  text-align: center;
+  display: block;
+  margin: 8px 40%;
+  padding: 15px 64px;
+  border-radius: 5px;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+/* CSS CODE BACKGROUND 2 */
+.bg-2 {
+  background: url("assets/the-games-bg.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+/* CSS CODE BACKGROUND 3 */
+.bg-3 {
+  background: url("assets/features.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+/* CSS CODE BACKGROUND 4 */
+.bg-4 {
+  background: url("assets/requirements.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+/* CSS CODE BACKGROUND 5 */
+.bg-5 {
+  background: url("assets/top-score-bg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+/* CSS CODE BACKGROUND 6 */
+.bg-6 {
+  background: url("assets/endbackground.jpg");
+}
